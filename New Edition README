@@ -1,0 +1,24 @@
+Here I have uploaded a more complex version of the diet calculator. It has all of the features of the other version, but it also takes new informations from the user.
+
+Now it also asks for minimum and maximum calorie you would like to meet each day. Then calculates the daily deficit and recommended daily calories to lose. 
+
+Here is an example output: 
+
+Enter kilograms to lose: 15
+Enter days to lose 15 kilograms: 60
+Enter the minimum calorie you would like to meet each day: 1000
+Enter the maximum calorie you would like to meet each day: 2000
+**************************************************************************************************************************************** 
+To lose 15 kilograms in 60 days you will need a daily deficit of 1925 calories.
+**************************************************************************************************************************************** 
+RECOMMENDED DAILY CALORIES TO LOSE 15 KILOS IN 60 DAYS: 75 
+**************************************************************************************************************************************** 
+MACRO           RECOMMENDED PERCENT   CALORIES PER GRAM       RECOMMENDED CALORIES      GRAMS     MINIMUM CALORIES      MAXIMUM CALORIES 
+CARBOHYDRATE                    50%                   4                        38      9,4                  500                  1000    
+FAT                             30%                   9                        23       2,5                  300                   600   
+PROTEIN                         20%                   4                        15       3,8                  200                   400
+****************************************************************************************************************************************
+
+I would love to see your comments, suggestions and upgrades for this project! Hope you like it.
+
+Here you can contact me easily: e.anil.polat@gmail.com https://twitter.com/Anlpolt
